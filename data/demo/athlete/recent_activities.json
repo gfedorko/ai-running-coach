@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-03-15",
+    "sport": "Run",
+    "workout_type": "long",
+    "distance_m": 21000.0,
+    "moving_time_s": 7080.0,
+    "training_load": 92.0,
+    "name": "Weekend Long Run"
+  },
+  {
+    "date": "2026-03-13",
+    "sport": "Run",
+    "workout_type": "easy",
+    "distance_m": 8000.0,
+    "moving_time_s": 2820.0,
+    "training_load": 24.0,
+    "name": "Easy Aerobic Run"
+  },
+  {
+    "date": "2026-03-11",
+    "sport": "Run",
+    "workout_type": "threshold",
+    "distance_m": 12000.0,
+    "moving_time_s": 3960.0,
+    "training_load": 64.0,
+    "name": "Threshold Session"
+  }
+]
